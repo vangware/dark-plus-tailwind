@@ -1,12 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"semanticHighlighting": true,
-	"semanticTokenColors": {
-		"newOperator": "#c586c0ff",
-		"stringLiteral": "#ce9178ff",
-		"customLiteral": "#dcdcaaff",
-		"numberLiteral": "#b5cea8ff"
-	},
 	"colors": {
 		"activityBar.activeBorder": "#fafafaff",
 		"activityBar.background": "#262626ff",
@@ -251,6 +245,12 @@
 		"widget.shadow": "#1717175c"
 	},
 	"name": "Dark+ Tailwind",
+	"semanticTokenColors": {
+		"newOperator": "#f472b6ff",
+		"stringLiteral": "#fca5a5ff",
+		"customLiteral": "#fef9c3ff",
+		"numberLiteral": "#bbf7d0ff"
+	},
 	"tokenColors": [
 		{
 			"scope": [
